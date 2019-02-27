@@ -1,4 +1,4 @@
-/[Ll]ibrary/
+﻿/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -28,8 +28,3 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
---------------------- 
-作者：suian0424 
-来源：CSDN 
-原文：https://blog.csdn.net/suian0424/article/details/70210142 
-版权声明：本文为博主原创文章，转载请附上博文链接！
